@@ -19,14 +19,18 @@ timesofindia.indiatimes.com##.urcity_link
 economictimes.indiatimes.com##div.article_block:nth-of-type(n) > .flt.pageContent > .downloadEconomicTimesApp
 economictimes.indiatimes.com##.clearfix.band
 economictimes.indiatimes.com##div.article_block:nth-of-type(n) > .sideBar.flr > .seowidget.clearfix.clr
+economictimes.indiatimes.com##.budgetCube
 
 ! 1/6/2020 https://navbharattimes.indiatimes.com
 navbharattimes.indiatimes.com##.topStorieswrap
 navbharattimes.indiatimes.com##.top-stories-modal
+navbharattimes.indiatimes.com##.apanaBazar
 
 ! 1/5/2020 https://www.ndtv.com
 www.ndtv.com###taboola-right-rail-thumbnails-3rd
 www.ndtv.com##.ins_keyword_rhs
+www.ndtv.com###tbl-next-up
+www.ndtv.com##.story_footer
 
 ! 1/21/2020 https://gadgets.ndtv.com
 gadgets.ndtv.com###taboola-right-rail-thumbnails-3rd
@@ -47,6 +51,14 @@ www.livemint.com###lastAd
 
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.hide-until-mobile.new-header__cta-bar
+
+! 1/27/2020 https://scroll.in
+||s01.sgp1.cdn.digitaloceanspaces.com/images/1009.jpg$image
+||s01.sgp1.cdn.digitaloceanspaces.com/images/999.jpg$image
+
+! 1/27/2020 https://www.youtube.com
+www.youtube.com###chat
+||www.youtube.com/live_chat_replay$subdocument
 
 ! 1/10/2020 https://gaana.com
 gaana.com##.insidelogin.themehover
