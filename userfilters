@@ -40,14 +40,21 @@ www.indiatoday.in###txt_audio
 www.indiatoday.in##.text-app-download
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.showGototop.goToTop
+||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
 
 ! 1/5/2020 https://www.news18.com
 www.news18.com##.whatsappbutton
 www.news18.com##.live-tv
 www.news18.com##[src="https://www.news18.com/amazon-associate/search/nw18eng-21/o7jjfnf7/multi_right_vertical/"]
 
+! 2/6/2020 https://aajtak.intoday.in
+aajtak.intoday.in###txt_audio
+||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/$subdocument
+aajtak.intoday.in##.text-app-download
+
 ! 1/21/2020 https://www.livemint.com
 www.livemint.com###lastAd
+www.livemint.com##.desktopAd.budgetAdd
 
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.hide-until-mobile.new-header__cta-bar
