@@ -56,6 +56,9 @@ aajtak.intoday.in##.text-app-download
 www.livemint.com###lastAd
 www.livemint.com##.desktopAd.budgetAdd
 
+! 2/7/2020 https://www.business-standard.com
+www.business-standard.com##div.right-row:nth-of-type(n) > .right-box-1
+
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.hide-until-mobile.new-header__cta-bar
 
