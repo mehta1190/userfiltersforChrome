@@ -13,7 +13,9 @@ timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(8)
 timesofindia.indiatimes.com##.tenpx.stickybottom.add-free-nudge
 timesofindia.indiatimes.com##.urcity_link
-||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(6) > .hzroot
+||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument,important
+||timesofindia.indiatimes.com/commentsdata.cms$xhr,domain=timesofindia.indiatimes.com,important
 
 ! 1/5/2020 https://economictimes.indiatimes.com
 economictimes.indiatimes.com##div.article_block:nth-of-type(n) > .flt.pageContent > .downloadEconomicTimesApp
@@ -41,6 +43,9 @@ www.indiatoday.in##.text-app-download
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.showGototop.goToTop
 ||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
+www.indiatoday.in##p > .lazyloaded
+www.indiatoday.in##.app_menu
+www.indiatoday.in##.comment-vuukle-count
 
 ! 1/5/2020 https://www.news18.com
 www.news18.com##.whatsappbutton
@@ -51,6 +56,10 @@ www.news18.com##[src="https://www.news18.com/amazon-associate/search/nw18eng-21/
 aajtak.intoday.in###txt_audio
 ||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/$subdocument
 aajtak.intoday.in##.text-app-download
+
+! 2/16/2020 https://www.dnaindia.com
+www.dnaindia.com###sso-toolbar
+www.dnaindia.com##.video-wrap
 
 ! 1/21/2020 https://www.livemint.com
 www.livemint.com###lastAd
@@ -69,6 +78,8 @@ www.theguardian.com##.hide-until-mobile.new-header__cta-bar
 ! 1/27/2020 https://www.youtube.com
 www.youtube.com###chat
 ||www.youtube.com/live_chat_replay$subdocument
+www.youtube.com##ytd-popup-container.ytd-app.style-scope
+
 
 ! 1/10/2020 https://gaana.com
 gaana.com##.insidelogin.themehover
