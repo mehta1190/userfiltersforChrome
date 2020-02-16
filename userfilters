@@ -42,10 +42,10 @@ www.indiatoday.in###txt_audio
 www.indiatoday.in##.text-app-download
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.showGototop.goToTop
-||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
 www.indiatoday.in##p > .lazyloaded
 www.indiatoday.in##.app_menu
 www.indiatoday.in##.comment-vuukle-count
+||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
 
 ! 1/5/2020 https://www.news18.com
 www.news18.com##.whatsappbutton
@@ -54,7 +54,6 @@ www.news18.com##[src="https://www.news18.com/amazon-associate/search/nw18eng-21/
 
 ! 2/6/2020 https://aajtak.intoday.in
 aajtak.intoday.in###txt_audio
-||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/$subdocument
 aajtak.intoday.in##.text-app-download
 
 ! 2/16/2020 https://www.dnaindia.com
