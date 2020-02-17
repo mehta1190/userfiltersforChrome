@@ -1,10 +1,25 @@
 ! 1/5/2020 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.tenpx.stickybottom.add-free-nudge
 timesofindia.indiatimes.com##.urcity_link
+timesofindia.indiatimes.com##.top-area
+timesofindia.indiatimes.com##.clearfix.sticky-rhs
+timesofindia.indiatimes.com##.sidebar > .external-block.show_wdgt.clearfix.widget
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._2Zlqw
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > ._3SEsP
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > div:nth-of-type(2)
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > .articleshow-rhs
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(4)
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(6) > .hzroot
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(5)
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(10)
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(11)
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(12)
 ||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$,important
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument,important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
-
+||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$important
+||www.houzz.com^$subdocument,important
+||navbharattimes.indiatimes.com/nbtnews.cms$domain=timesofindia.indiatimes.com,important
 
 ! 1/5/2020 https://economictimes.indiatimes.com
 economictimes.indiatimes.com##div.article_block:nth-of-type(n) > .flt.pageContent > .downloadEconomicTimesApp
