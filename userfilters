@@ -23,6 +23,7 @@ economictimes.indiatimes.com##div.article_block:nth-of-type(n) > .flt.pageConten
 economictimes.indiatimes.com##.clearfix.band
 economictimes.indiatimes.com##div.article_block:nth-of-type(n) > .sideBar.flr > .seowidget.clearfix.clr
 economictimes.indiatimes.com##.budgetCube
+economictimes.indiatimes.com##article > [href="/wealth/calculators/income-tax-calculator"]
 
 ! 1/6/2020 https://navbharattimes.indiatimes.com
 navbharattimes.indiatimes.com##.topStorieswrap
@@ -67,6 +68,8 @@ www.livemint.com##.desktopAd.budgetAdd
 
 ! 2/7/2020 https://www.business-standard.com
 www.business-standard.com##div.right-row:nth-of-type(n) > .right-box-1
+www.business-standard.com###eu_cookie
+www.business-standard.com##.bdrBNone.mB0.fLt.article > .adsbygoogle
 
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.hide-until-mobile.new-header__cta-bar
