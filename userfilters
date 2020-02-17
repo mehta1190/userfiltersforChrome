@@ -11,9 +11,12 @@ timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp 
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(10)
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(8)
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(6) > .hzroot
+timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(11)
+timesofindia.indiatimes.com##div._133P8:nth-of-type(12)
 timesofindia.indiatimes.com##.top-area._1b1NW
 timesofindia.indiatimes.com##.tenpx.stickybottom.add-free-nudge
 timesofindia.indiatimes.com##.urcity_link
+||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$,important
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$subdocument,important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
 
@@ -29,6 +32,7 @@ economictimes.indiatimes.com##article > [href="/wealth/calculators/income-tax-ca
 navbharattimes.indiatimes.com##.topStorieswrap
 navbharattimes.indiatimes.com##.top-stories-modal
 navbharattimes.indiatimes.com##.apanaBazar
+||navbharattimesfeeds.indiatimes.com/pwafeeds/commentsdata.cms$important
 
 ! 1/5/2020 https://www.ndtv.com
 www.ndtv.com###taboola-right-rail-thumbnails-3rd
