@@ -2,7 +2,9 @@
 timesofindia.indiatimes.com##.tenpx.stickybottom.add-free-nudge
 timesofindia.indiatimes.com##.urcity_link
 timesofindia.indiatimes.com##.top-area
+timesofindia.indiatimes.com##.header_top
 timesofindia.indiatimes.com##.clearfix.sticky-rhs
+timesofindia.indiatimes.com##.more-from-toi-wrapper
 timesofindia.indiatimes.com##.sidebar > .external-block.show_wdgt.clearfix.widget
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._2Zlqw
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > .clearfix._3WlLe > ._3SEsP
@@ -66,6 +68,13 @@ aajtak.intoday.in##.text-app-download
 www.dnaindia.com###sso-toolbar
 www.dnaindia.com##.video-wrap
 
+! 2/19/2020 https://www.india.com
+www.india.com##.sso-toolbar
+
+! 2/18/2020 https://www.thehindu.com
+www.thehindu.com##.comment-rules
+www.thehindu.com###budgetid
+
 ! 1/21/2020 https://www.livemint.com
 www.livemint.com###lastAd
 www.livemint.com##.desktopAd.budgetAdd
@@ -74,6 +83,9 @@ www.livemint.com##.desktopAd.budgetAdd
 www.business-standard.com##div.right-row:nth-of-type(n) > .right-box-1
 www.business-standard.com###eu_cookie
 www.business-standard.com##.bdrBNone.mB0.fLt.article > .adsbygoogle
+
+! 2/18/2020 https://www.businessinsider.in
+www.businessinsider.in##[href^="//www.businessinsider.in/bilru/click.htm"]
 
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.hide-until-mobile.new-header__cta-bar
@@ -99,3 +111,5 @@ www.jiosaavn.com##.gopro-interior-banner.gopro-bottom-banner.gopro-container
 
 ! 1/31/2020 https://yourstory.com
 yourstory.com##.fzSbzk.sc-jWxkHr.sc-EHOje
+
+###txt_audio
