@@ -1,5 +1,6 @@
 ! 1/5/2020 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##.tenpx.stickybottom.add-free-nudge
+timesofindia.indiatimes.com##.add-free-nudge
+timesofindia.indiatimes.com##.commentwrapperAMP
 timesofindia.indiatimes.com##.urcity_link
 timesofindia.indiatimes.com##.top-area
 timesofindia.indiatimes.com##.header_top
@@ -11,7 +12,7 @@ timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp 
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > .clearfix._1IaAp > ._38kVl > ._3JRp7 > div:nth-of-type(2)
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > .articleshow-rhs
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(4)
-timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div:nth-of-type(6) > .hzroot
+timesofindia.indiatimes.com##.hzroot
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(5)
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(10)
 timesofindia.indiatimes.com##div.rel.clearfix:nth-of-type(n) > ._2364r > div._133P8:nth-of-type(11)
@@ -37,27 +38,23 @@ navbharattimes.indiatimes.com##.apanaBazar
 ||navbharattimesfeeds.indiatimes.com/pwafeeds/commentsdata.cms$important
 
 ! 1/5/2020 https://www.ndtv.com
-www.ndtv.com###taboola-right-rail-thumbnails-3rd
+ndtv.com###taboola-right-rail-thumbnails-3rd
 www.ndtv.com##.ins_keyword_rhs
 www.ndtv.com###tbl-next-up
 www.ndtv.com##.story_footer
 
-! 1/21/2020 https://gadgets.ndtv.com
-gadgets.ndtv.com###taboola-right-rail-thumbnails-3rd
-
 ! 1/5/2020 https://www.indiatoday.in
 www.indiatoday.in##.text-app-download
 www.indiatoday.in##.inline-story-add
-www.indiatoday.in##.showGototop.goToTop
+www.indiatoday.in##.goToTop
 www.indiatoday.in##p > .lazyloaded
 www.indiatoday.in##.app_menu
 www.indiatoday.in##.comment-vuukle-count
-||smedia2.intoday.in/businesstoday/budget/2020/sponsor-strip/it/index.html$subdocument
 
 ! 1/5/2020 https://www.news18.com
 www.news18.com##.whatsappbutton
 www.news18.com##.live-tv
-www.news18.com##[src="https://www.news18.com/amazon-associate/search/nw18eng-21/o7jjfnf7/multi_right_vertical/"]
+||www.news18.com/amazon-associate/$important
 
 ! 2/6/2020 https://aajtak.intoday.in
 aajtak.intoday.in##.text-app-download
@@ -71,22 +68,20 @@ www.india.com##.sso-toolbar
 
 ! 2/18/2020 https://www.thehindu.com
 www.thehindu.com##.comment-rules
-www.thehindu.com###budgetid
 
 ! 1/21/2020 https://www.livemint.com
 www.livemint.com###lastAd
-www.livemint.com##.desktopAd.budgetAdd
 
 ! 2/7/2020 https://www.business-standard.com
-www.business-standard.com##div.right-row:nth-of-type(n) > .right-box-1
+www.business-standard.com##div.right-row > .right-box-1
 www.business-standard.com###eu_cookie
-www.business-standard.com##.bdrBNone.mB0.fLt.article > .adsbygoogle
+www.business-standard.com##.adsbygoogle
 
 ! 2/18/2020 https://www.businessinsider.in
 www.businessinsider.in##[href^="//www.businessinsider.in/bilru/click.htm"]
 
 ! 1/14/2020 https://www.theguardian.com
-www.theguardian.com##.hide-until-mobile.new-header__cta-bar
+www.theguardian.com##.new-header__cta-bar
 
 ! 1/27/2020 https://scroll.in
 ||s01.sgp1.cdn.digitaloceanspaces.com/images/1009.jpg$image
@@ -108,6 +103,6 @@ www.jiosaavn.com##.side-scroll.half-page.ad
 www.jiosaavn.com##.gopro-interior-banner.gopro-bottom-banner.gopro-container
 
 ! 1/31/2020 https://yourstory.com
-yourstory.com##.fzSbzk.sc-jWxkHr.sc-EHOje
+yourstory.com##.sc-jotlie.sc-EHOje
 
 ###txt_audio
