@@ -12,6 +12,7 @@ timesofindia.indiatimes.com##._2Zlqw
 timesofindia.indiatimes.com##._3SEsP
 timesofindia.indiatimes.com##.M3HZI
 timesofindia.indiatimes.com##.remove-sticky.articleshow-rhs
+timesofindia.indiatimes.com##.bottom-comments
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
 ||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$important
@@ -35,6 +36,7 @@ ndtv.com###taboola-right-rail-thumbnails-3rd
 www.ndtv.com##.ins_keyword_rhs
 www.ndtv.com###tbl-next-up
 www.ndtv.com##.story_footer
+www.ndtv.com###jiosaavn-widget
 
 ! 1/5/2020 https://www.indiatoday.in
 www.indiatoday.in##.text-app-download
@@ -65,6 +67,9 @@ www.thehindu.com##.comment-rules
 ! 1/21/2020 https://www.livemint.com
 www.livemint.com###lastAd
 
+! 2/27/2020 https://www.bloombergquint.com
+www.bloombergquint.com###meter_banner
+
 ! 2/7/2020 https://www.business-standard.com
 www.business-standard.com##div.right-row > .right-box-1
 www.business-standard.com###eu_cookie
@@ -72,6 +77,9 @@ www.business-standard.com##.adsbygoogle
 
 ! 2/18/2020 https://www.businessinsider.in
 www.businessinsider.in##[href^="//www.businessinsider.in/bilru/click.htm"]
+
+! 2/25/2020 http://www.indiandefencereview.com
+www.indiandefencereview.com##aside.advertisement-widget
 
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.new-header__cta-bar
