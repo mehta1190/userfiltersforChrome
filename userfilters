@@ -13,6 +13,7 @@ timesofindia.indiatimes.com##._3SEsP
 timesofindia.indiatimes.com##.M3HZI
 timesofindia.indiatimes.com##.remove-sticky.articleshow-rhs
 timesofindia.indiatimes.com##.bottom-comments
+timesofindia.indiatimes.com##.appOnlyComment
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
 ||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$important
@@ -36,7 +37,8 @@ ndtv.com###taboola-right-rail-thumbnails-3rd
 www.ndtv.com##.ins_keyword_rhs
 www.ndtv.com###tbl-next-up
 www.ndtv.com##.story_footer
-www.ndtv.com###jiosaavn-widget
+ndtv.com###jiosaavn-widget
+www.ndtv.com###trcNextUpWidget
 
 ! 1/5/2020 https://www.indiatoday.in
 www.indiatoday.in##.text-app-download
