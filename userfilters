@@ -51,10 +51,12 @@ www.indiatoday.in##.comment-vuukle-count
 ! 1/5/2020 https://www.news18.com
 www.news18.com##.whatsappbutton
 www.news18.com##.live-tv
+www.news18.com##div.clearfix.phtadd
 ||www.news18.com/amazon-associate/$important
 
 ! 2/6/2020 https://aajtak.intoday.in
 aajtak.intoday.in##.text-app-download
+aajtak.intoday.in##.ads_li_ank
 
 ! 2/16/2020 https://www.dnaindia.com
 www.dnaindia.com###sso-toolbar
@@ -79,6 +81,10 @@ www.business-standard.com##.adsbygoogle
 
 ! 2/18/2020 https://www.businessinsider.in
 www.businessinsider.in##[href^="//www.businessinsider.in/bilru/click.htm"]
+
+! 3/10/2020 https://www.moneycontrol.com
+www.moneycontrol.com##[href^="https://www.moneycontrol.com/ms/poker/"]
+www.moneycontrol.com###taxcalIframe
 
 ! 2/25/2020 http://www.indiandefencereview.com
 www.indiandefencereview.com##aside.advertisement-widget
@@ -106,5 +112,11 @@ www.jiosaavn.com##.gopro-container
 
 ! 1/31/2020 https://yourstory.com
 yourstory.com##.sc-jotlie.sc-EHOje
+
+! 3/12/2020 https://www.smartprix.com
+www.smartprix.com##.dadow-box
+
+! 3/12/2020 https://in.pcmag.com
+in.pcmag.com##.adkit
 
 ###txt_audio
