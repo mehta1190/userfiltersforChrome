@@ -14,6 +14,8 @@ timesofindia.indiatimes.com##.M3HZI
 timesofindia.indiatimes.com##.remove-sticky.articleshow-rhs
 timesofindia.indiatimes.com##.bottom-comments
 timesofindia.indiatimes.com##.appOnlyComment
+timesofindia.indiatimes.com##.a3_tR
+timesofindia.indiatimes.com##.gaana-widget
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
 ||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$important
@@ -67,6 +69,9 @@ www.dnaindia.com##.video-wrap
 ! 2/19/2020 https://www.india.com
 www.india.com##.sso-toolbar
 
+! 3/22/2020 https://www.hindustantimes.com
+www.hindustantimes.com###loggedout
+
 ! 2/18/2020 https://www.thehindu.com
 www.thehindu.com##.comment-rules
 
@@ -75,6 +80,12 @@ www.livemint.com###lastAd
 
 ! 2/27/2020 https://www.bloombergquint.com
 www.bloombergquint.com###meter_banner
+
+! 3/22/2020 https://www.amarujala.com
+www.amarujala.com##.text-link-ad
+
+! 3/22/2020 https://www.jagran.com
+www.jagran.com##.ads
 
 ! 2/7/2020 https://www.business-standard.com
 www.business-standard.com##div.right-row > .right-box-1
