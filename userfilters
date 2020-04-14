@@ -109,6 +109,10 @@ www.indiandefencereview.com##aside.advertisement-widget
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.new-header__cta-bar
 
+! 4/14/2020 https://thewire.in
+thewire.in##.postComplete__orcsnet
+||plugin.orcsnet.com/$subdocument
+
 ! 1/27/2020 https://scroll.in
 ||s01.sgp1.cdn.digitaloceanspaces.com/images/1009.jpg$image
 ||s01.sgp1.cdn.digitaloceanspaces.com/images/999.jpg$image
@@ -137,3 +141,5 @@ www.smartprix.com##.dadow-box
 in.pcmag.com##.adkit
 
 ###txt_audio
+
+
