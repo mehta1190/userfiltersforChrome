@@ -126,6 +126,12 @@ thewire.in##.postComplete__orcsnet
 www.youtube.com###chat
 ||www.youtube.com/live_chat_replay$subdocument
 
+! 4/21/2020 https://www.quora.com
+www.quora.com##.spacing_log_question_page_ad
+
+! 4/21/2020 https://knowledge.wharton.upenn.edu
+knowledge.wharton.upenn.edu##.spu-bg
+
 ! 1/10/2020 https://gaana.com
 gaana.com##.themehover
 gaana.com###lm5 > [href="https://gaana.com/subscribe/buy-gaana-plus"]
