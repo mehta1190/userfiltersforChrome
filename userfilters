@@ -82,6 +82,10 @@ www.hindustantimes.com###loggedout
 ! 2/18/2020 https://www.thehindu.com
 www.thehindu.com##.comment-rules
 www.thehindu.com##.ad-ft
+www.thehindu.com##.support-jlm
+
+! 6/3/2020 https://www.thehindubusinessline.com
+www.thehindubusinessline.com##.covidCubeMain
 
 ! 1/21/2020 https://www.livemint.com
 www.livemint.com###lastAd
@@ -101,6 +105,9 @@ www.jagran.com##.ads
 www.business-standard.com##div.right-row > .right-box-1
 www.business-standard.com###eu_cookie
 www.business-standard.com##.adsbygoogle
+www.business-standard.com##.attribution13
+www.business-standard.com##.sponsored-post11
+www.business-standard.com##.pB15.bBD.bT0
 
 ! 2/18/2020 https://www.businessinsider.in
 www.businessinsider.in##[href^="//www.businessinsider.in/bilru/click.htm"]
