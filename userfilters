@@ -15,6 +15,7 @@ timesofindia.indiatimes.com##._3SEsP
 timesofindia.indiatimes.com##.M3HZI
 timesofindia.indiatimes.com##.remove-sticky.articleshow-rhs
 timesofindia.indiatimes.com##.bottom-comments
+timesofindia.indiatimes.com##.cmtbtn
 timesofindia.indiatimes.com##.appOnlyComment
 timesofindia.indiatimes.com##.a3_tR
 timesofindia.indiatimes.com##.download-subscribe
@@ -25,6 +26,7 @@ timesofindia.indiatimes.com##.gaana-widget
 ||www.houzz.com^$important
 ||navbharattimes.indiatimes.com/nbtnews.cms$domain=timesofindia.indiatimes.com,important
 timesofindia.indiatimes.com##.eLpbG.CY_1h
+timesofindia.indiatimes.com##._3TTdG
 timesofindia.indiatimes.com##._3S4xf._39qub
 timesofindia.indiatimes.com##._39qub
 timesofindia.indiatimes.com##._1Tz2z._1BJUR
@@ -126,6 +128,7 @@ www.indiandefencereview.com##aside.advertisement-widget
 
 ! 5/24/2020 https://theprint.in
 theprint.in##[href="https://theprint.in/contribute/"]
+theprint.in##.post_contribute
 
 ! 1/14/2020 https://www.theguardian.com
 www.theguardian.com##.new-header__cta-bar
