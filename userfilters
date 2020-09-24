@@ -20,6 +20,8 @@ timesofindia.indiatimes.com##.appOnlyComment
 timesofindia.indiatimes.com##.a3_tR
 timesofindia.indiatimes.com##.download-subscribe
 timesofindia.indiatimes.com##.gaana-widget
+timesofindia.indiatimes.com##.rgt_ad
+timesofindia.indiatimes.com##.photo_comment
 ||timesofindia.indiatimes.com/ad_free_nudge_text.cms$important
 ||timesofindia.indiatimes.com/commentsdata.cms$important
 ||timesofindia.indiatimes.com/featuredblock_travel_slide.cms$important
@@ -54,6 +56,9 @@ www.ndtv.com##.story_footer
 ndtv.com###jiosaavn-widget
 www.ndtv.com##.mx-spon
 www.ndtv.com###trcNextUpWidget
+
+! 2020-09-22 https://sports.ndtv.com
+sports.ndtv.com###overlaybtn
 
 ! 1/5/2020 https://www.indiatoday.in
 www.indiatoday.in##.text-app-download
@@ -128,6 +133,7 @@ www.indiandefencereview.com##aside.advertisement-widget
 
 ! 5/24/2020 https://theprint.in
 theprint.in##[href="https://theprint.in/contribute/"]
+theprint.in##[href="https://theprint.in/subscribe/"]
 theprint.in##.post_contribute
 
 ! 1/14/2020 https://www.theguardian.com
@@ -160,6 +166,8 @@ gaana.com##.queuecoachmarkmsg
 ! 1/12/2020 https://www.jiosaavn.com
 www.jiosaavn.com##.side-scroll.half-page.ad
 www.jiosaavn.com##.gopro-container
+www.jiosaavn.com##.c-toast
+www.jiosaavn.com##.c-banner
 
 ! 1/31/2020 https://yourstory.com
 yourstory.com##.sc-jotlie.sc-EHOje
