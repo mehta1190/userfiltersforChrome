@@ -90,11 +90,14 @@ www.hindustantimes.com###loggedout
 www.hindustantimes.com##.adHeight313
 www.hindustantimes.com##.epaper-ad
 www.hindustantimes.com##.ht_outbrain
+www.hindustantimes.com##.adMinHeight313
+www.hindustantimes.com#@#.popup-modal
 
 ! 2/18/2020 https://www.thehindu.com
 www.thehindu.com##.comment-rules
 www.thehindu.com##.ad-ft
 www.thehindu.com##.support-jlm
+||tinypass.com^$important
 
 ! 6/3/2020 https://www.thehindubusinessline.com
 www.thehindubusinessline.com##.covidCubeMain
@@ -193,5 +196,6 @@ gizmodo.com##.ad-container
 
 ###txt_audio
 ##.corona-toolbarbtn
+www.pornhub.org##.underplayerAd
 ||timespoints.com
 ||amplify.ai
